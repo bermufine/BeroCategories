@@ -23,7 +23,7 @@
           "title": "AYA TV"
         },
         {
-          "description": "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
+          "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
           "sources": [
             "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
           ],
@@ -45,7 +45,7 @@
           "sources": [
             "https://linear-491.frequency.stream/hls/SPORTS/playlist.m3u89"
           ],
-          "subtitle": "By Channel",
+          "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yOTU0NDg2MjVf/sports.jpg",
           "title": "SPORTS"
         },
