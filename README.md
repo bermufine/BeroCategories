@@ -39,7 +39,14 @@
           "subtitle": "By Channel",
           "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
           "title": "METANOIA TV"
-        },
+        }
+      ]
+    }
+  ]
+}
+        
+        
+        
         {
           "description": "SPORTS",
           "sources": [
