@@ -5,49 +5,6 @@
       "name": "Movies",
       "videos": [
         {
-          "description": "Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360//bero-tv/bero-tv.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg",
-          "title": "BERO TV"
-        },
-         {
-          "description": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne...",
-          "sources": [
-            "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
-          "title": "AYA TV"
-        },
-        {
-          "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
-          "sources": [
-            "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/NzNfODIzNTUxNDhf/bossbrother.png",
-          "title": "BOSS BROTHER"
-        },
-        {
-          "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store",
-          "sources": [
-            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
-          "title": "METANOIA TV"
-        }
-      ]
-    }
-  ]
-}
-        
-        
-        
-        {
           "description": "SPORTS",
           "sources": [
             "https://linear-491.frequency.stream/hls/SPORTS/playlist.m3u89"
