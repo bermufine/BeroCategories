@@ -4,6 +4,41 @@
     {
       "name": "Movies",
       "videos": [
+           {
+          "description": "Espoir TV est une chaine de télévision...",
+          "sources": [
+            "https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg",
+          "title": "ESPOIR TV"
+        },
+        {
+          "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store",
+          "sources": [
+            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
+          "title": "METANOIA TV"
+        },
+         {
+          "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information",
+          "sources": [
+            "https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
+          "title": "JOS-TV HD"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+      
         {
           "description": "SPORTS",
           "sources": [
@@ -112,35 +147,5 @@
           "thumb": "https://od.lk/s/M18yOTU0NDkxMjZf/india.jpg",
           "title": "INDIA"
         },
-        {
-          "description": "Espoir TV est une chaine de télévision...",
-          "sources": [
-            "https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg",
-          "title": "ESPOIR TV"
-        },
-        {
-          "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store",
-          "sources": [
-            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
-          "title": "METANOIA TV"
-        },
-         {
-          "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information",
-          "sources": [
-            "https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
-          "title": "JOS-TV HD"
-        }
-      ]
-    }
-  ]
-}
+       
    
