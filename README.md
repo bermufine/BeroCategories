@@ -22,6 +22,51 @@
           "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
           "title": "METANOIA TV"
         },
+        {
+          "description": "Le Monde en 24H, l'autoroute de l'information",
+          "sources": [
+            "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
+          "title": "LE MONDE EN 24H"
+        },
+        {
+          "description": "Le Monde en 24H, l'autoroute de l'information",
+          "sources": [
+            "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
+          "title": "LE MONDE EN 24H"
+        },
+        {
+          "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "sources": [
+            "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg",
+          "title": "EMB MISSION TV"
+        },
+         {
+          "description": "La Voie dela Verite Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.",
+          "sources": [
+            "https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODU2MDQyODlf/voiedeverite.jpg",
+          "title": "VOIE DE VERITE"
+        },
+        {
+          "description": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro",
+          "sources": [
+            "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
+          "title": "TV LA CAPITALE"
+        },
          {
           "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information",
           "sources": [
@@ -30,6 +75,33 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
           "title": "JOS-TV HD"
+        },
+        {
+          "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg",
+          "title": "DIESKOLUS TV"
+        },
+         {
+          "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
+          "sources": [
+            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
+          "title": "METANOIA TV"
+        },
+         {
+          "description": "Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png",
+          "title": "ANTENNE A"
         }
       ]
     }
