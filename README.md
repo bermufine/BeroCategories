@@ -12,15 +12,7 @@
           "subtitle": "All Channel",
           "thumb": "https://od.lk/s/M18yOTU0NDg1OTFf/documentaires.png",
           "title": "DOCUMENTARY"
-        }  
-      ]
-    }
-  ]
-}
-
-
-
-      
+        },
         {
           "description": "SPORTS",
           "sources": [
@@ -30,6 +22,33 @@
           "thumb": "https://od.lk/s/M18yOTU0NDg2MjVf/sports.jpg",
           "title": "SPORTS"
         },
+          {
+          "description": "GOSPEL.",
+          "sources": [
+            "http://141.95:8081/GOSPEL/index.m3u89"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2Mjhf/tracegospel.png",
+          "title": "GOSPEL"
+        },
+        {
+          "description": "INDIA.",
+          "sources": [
+            "http://141.95:8081/INDIA/index.m3u89"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDkxMjZf/india.jpg",
+          "title": "INDIA"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+      
+        
         {
           "description": "MOVIES",
           "sources": [
@@ -103,24 +122,7 @@
           "thumb": "https://od.lk/s/M18yOTU0NDg2MTBf/mixtstv.jpg",
           "title": "GENERALISTE"
         },
-        {
-          "description": "GOSPEL.",
-          "sources": [
-            "http://141.95:8081/GOSPEL/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2Mjhf/tracegospel.png",
-          "title": "GOSPEL"
-        },
-        {
-          "description": "INDIA.",
-          "sources": [
-            "http://141.95:8081/INDIA/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDkxMjZf/india.jpg",
-          "title": "INDIA"
-        },
+      
 
 
 
