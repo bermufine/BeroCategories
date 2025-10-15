@@ -13,6 +13,15 @@
           "thumb": "https://od.lk/s/M18yOTU0NDg1OTFf/documentaires.png",
           "title": "DOCUMENTARY"
         },
+         {
+          "description": "TRACE HIT",
+          "sources": [
+            "http://bl.uma.media/live/HLS/6866944_4/TRACEHIT/playlist.m3u89"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2Mjlf/tracem.png",
+          "title": "TRACE HIT"
+        },
         {
           "description": "SPORTS",
           "sources": [
@@ -84,16 +93,6 @@
           "subtitle": "By Channel",
           "thumb": "https://od.lk/s/M18yOTU0NDg2MTdf/news.png",
           "title": "NEWS"
-        },
-       
-        {
-          "description": "TRACE HIT",
-          "sources": [
-            "http://bl.uma.media/live/HLS/6866944_4/TRACEHIT/playlist.m3u89"
-          ],
-          "subtitle": "ByChannel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2Mjlf/tracem.png",
-          "title": "TRACE HIT"
         },
         {
           "description": "INTERNATIONAL.",
