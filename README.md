@@ -50,6 +50,15 @@
           "title": "SPORTS"
         },
         {
+          "description": "MOVIES",
+          "sources": [
+            "http://141.95:8081/MOVIES/index.m3u89"
+          ],
+          "subtitle": "By Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2MTNf/movie.jpg",
+          "title": "MOVIES"
+        },
+        {
           "description": "INDIA.",
           "sources": [
             "http://141.95:8081/INDIA/index.m3u89"
@@ -67,15 +76,7 @@
 
       
         
-        {
-          "description": "MOVIES",
-          "sources": [
-            "http://141.95:8081/MOVIES/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2MTNf/movie.jpg",
-          "title": "MOVIES"
-        },
+        
         {
           "description": "NOVELAS",
           "sources": [
