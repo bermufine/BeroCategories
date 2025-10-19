@@ -13,6 +13,33 @@
           "thumb": "https://od.lk/s/M18yOTU0NDg2MDlf/kidstv.png",
           "title": "KIDS"
           },
+           {
+          "description": "NOVELAS",
+          "sources": [
+            "http://151.248.4444/NOVELAS/index.m3u89"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2MThf/novelas.jpg",
+          "title": "NOVELAS"
+        },
+        {
+          "description": "NEWS",
+          "sources": [
+            "http://151.248.:4444/NEWS/index.m3u89"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2MTdf/news.png",
+          "title": "NEWS"
+         },
+          {
+          "description": "RELIGION",
+          "sources": [
+            "http://141.95:8081/RELIGION/index.m3u89"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2MjNf/religions.png",
+          "title": "RELIGION"
+        },
          {
           "description": "DOCUMENTARY",
           "sources": [
@@ -41,6 +68,33 @@
           "title": "TRACE HIT"
         },
         {
+          "description": "MOVIES",
+          "sources": [
+            "http://141.95:8081/MOVIES/index.m3u89"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2MTNf/movie.jpg",
+          "title": "MOVIES"
+          },
+          {
+          "description": "INTERNATIONAL.",
+          "sources": [
+            "http://141.95:8081/WORLD/index.m3u89"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2MDBf/international.png",
+          "title": "INTERNATIONAL"
+        },
+        {
+          "description": "GENERALISTE.",
+          "sources": [
+            "http://141.95:8081/GENERALISTE/index.m3u89"
+          ],
+          "subtitle": "All Channel",
+          "thumb": "https://od.lk/s/M18yOTU0NDg2MTBf/mixtstv.jpg",
+          "title": "GENERALISTE"
+        },
+        {
           "description": "SPORTS",
           "sources": [
             "https://linear-491.frequency.stream/hls/SPORTS/playlist.m3u89"
@@ -48,15 +102,6 @@
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/M18yOTU0NDg2MjVf/sports.jpg",
           "title": "SPORTS"
-        },
-        {
-          "description": "MOVIES",
-          "sources": [
-            "http://141.95:8081/MOVIES/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2MTNf/movie.jpg",
-          "title": "MOVIES"
         },
         {
           "description": "INDIA.",
@@ -77,51 +122,8 @@
       
         
         
-        {
-          "description": "NOVELAS",
-          "sources": [
-            "http://151.248.4444/NOVELAS/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2MThf/novelas.jpg",
-          "title": "NOVELAS"
-        },
-        {
-          "description": "NEWS",
-          "sources": [
-            "http://151.248.:4444/NEWS/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2MTdf/news.png",
-          "title": "NEWS"
-        },
-        {
-          "description": "INTERNATIONAL.",
-          "sources": [
-            "http://141.95:8081/WORLD/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2MDBf/international.png",
-          "title": "INTERNATIONAL"
-        },
-        {
-          "description": "RELIGION",
-          "sources": [
-            "http://141.95:8081/RELIGION/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2MjNf/religions.png",
-          "title": "RELIGION"
-        },
-        {
-          "description": "GENERALISTE.",
-          "sources": [
-            "http://141.95:8081/GENERALISTE/index.m3u89"
-          ],
-          "subtitle": "By Channel",
-          "thumb": "https://od.lk/s/M18yOTU0NDg2MTBf/mixtstv.jpg",
-          "title": "GENERALISTE"
-        },
+       
+      
       
 
 
