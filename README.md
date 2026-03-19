@@ -4,6 +4,94 @@
     {
       "name": "Movies",
       "videos": [
+               {
+          "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store",
+          "sources": [
+            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
+          "title": "METANOIA TV"
+        },     
+        {
+          "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
+          "sources": [
+            "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg",
+          "title": "FINESSE MONDE"
+        },
+        {
+          "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
+          "title": "EVI TV"
+        },
+        {
+          "description": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu",
+          "sources": [
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "title": "FRYCOMS TV"
+        },
+        {
+          "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
+          "sources": [
+            "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
+          "title": "BOSS BROTHER"
+        },
+         {
+          "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay.",
+          "sources": [
+            "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
+          "title": "GRAND MEDIA TV"
+        },
+        {
+          "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo..",
+          "sources": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@BM_TELEVISION.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQwXw/bmtv.jpg",
+          "title": "BM TV"
+        },
+         {
+          "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
+          "sources": [
+            "https://c.streamhoster.com/link/hls/Wns3eE/i3hogHZs0zc/mtRZn0sX3Up_5/playlist.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
+          "title": "EV TELE"
+        },
+        {
+          "description": "Next TV est une chaine generaliste emmettant depuis cameroune",
+          "sources": [
+            "http://41.223.30.228/NEXTTV/video.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg",
+          "title": "NEXT TV"
+        }
+      ]
+    }
+  ]
+}
+   
+
+      
          {
           "description": "NOVELAS",
           "sources": [
@@ -125,92 +213,7 @@
 
 
 
-           {
-          "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store",
-          "sources": [
-            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
-          "title": "METANOIA TV"
-        },     
-        {
-          "description": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg",
-          "title": "FINESSE MONDE"
-        },
-        {
-          "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
-          "sources": [
-            "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
-          "title": "EVI TV"
-        },
-        {
-          "description": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu",
-          "sources": [
-            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
-          "title": "FRYCOMS TV"
-        },
-        {
-          "description": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
-          "sources": [
-            "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
-          "title": "BOSS BROTHER"
-        },
-         {
-          "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay.",
-          "sources": [
-            "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
-          "title": "GRAND MEDIA TV"
-        },
-        {
-          "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo..",
-          "sources": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@BM_TELEVISION.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQwXw/bmtv.jpg",
-          "title": "BM TV"
-        },
-         {
-          "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com",
-          "sources": [
-            "https://c.streamhoster.com/link/hls/Wns3eE/i3hogHZs0zc/mtRZn0sX3Up_5/playlist.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
-          "title": "EV TELE"
-        },
-        {
-          "description": "Next TV est une chaine generaliste emmettant depuis cameroune",
-          "sources": [
-            "http://41.223.30.228/NEXTTV/video.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg",
-          "title": "NEXT TV"
-        }
-      ]
-    }
-  ]
-}
-       
+              
       
       
 
